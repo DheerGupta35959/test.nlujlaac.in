@@ -1,0 +1,35 @@
+[16-Oct-2022 07:35:33 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:35 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:36 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:37 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:37 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:54 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:56 UTC] PHP Warning:  require(/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
+[16-Oct-2022 07:35:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/nlujlaac/test/test.nlujlaac.in/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/nlujlaac/test/test.nlujlaac.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/nlujlaac/test/test.nlujlaac.in/index.php on line 34
